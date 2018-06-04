@@ -1,2 +1,2 @@
-# priyakalyangithub.io
+# priyakalyan.github.io
 My Website
